@@ -3,8 +3,5 @@ subtitle: Make tomorrow easier.
 description: Make tomorrow easier.
 
 header_pages:
-  - title: Jon 
-    url: jon.md
-    
-  - title: Contact
-    url: contact.md
+  - jon.md
+  - contact.md
