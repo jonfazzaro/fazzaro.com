@@ -1,4 +1,6 @@
-## Contact
+---
+title: Contact
+---
 
 [LinkedIn](https://linkedin.com/in/jonfazzaro)  
 [Calendly](https://calendly.com/fazzaro)  
