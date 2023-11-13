@@ -4,5 +4,7 @@ description: Make tomorrow easier.
 theme: minima
 
 header_pages:
-  - jon.md
-  - contact.md
+  - title: Jon
+    url: jon.md
+  - title: Contact
+    url: contact.md
