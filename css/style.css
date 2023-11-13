@@ -10,3 +10,7 @@ body {
 a {
   text-decoration: none;
 }
+
+a.logo {
+  color: black;
+}
