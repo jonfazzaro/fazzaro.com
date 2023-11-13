@@ -1,18 +1,23 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }} / {{ site.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-    <h1>{{ site.title }}</h1>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} / {{ site.title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <h1>{{ site.title }}</h1>
+  <section>
+    {{ content }}
+  </section>
+  <footer>
     <nav>
       <a href="/jon">Jon</a>
       <a href="/contact">Contact</a>
     </nav>
-    <section>
-      {{ content }}
-    </section>
-  </body>
+  </footer>
+</body>
+
 </html>
