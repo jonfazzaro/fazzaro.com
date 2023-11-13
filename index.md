@@ -2,4 +2,4 @@
 title: Hello
 ---
 
-Make tomorrow easier
+Make tomorrow easier.
