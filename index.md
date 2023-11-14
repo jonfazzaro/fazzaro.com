@@ -2,4 +2,4 @@
 title: Hello
 ---
 
-[Jon](https://jonfazzaro.omg.lol)
+[Jon &rarr;](https://jonfazzaro.omg.lol)
